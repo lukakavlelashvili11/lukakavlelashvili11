@@ -17,7 +17,7 @@ regardless of the above, I see myself in <b>back end</b> development, therefore 
 
 ### My Hobbies:
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png"/>
-<img align="left" width="26px" src="https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png"/>
+<img align="left" width="23px" src="https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png"/>
 <br>
 <br>
 below are the projects I use to develop myself. so I am waiting for your feedback and advice!:blush::pray:
