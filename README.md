@@ -3,6 +3,8 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 ### Languages and tools:
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ABootstrap_logo.svg&psig=AOvVaw3sxyQzxx5v9kRgVm1gJmoK&ust=1614858014429000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjGiKXmku8CFQAAAAAdAAAAABAD"/>
+
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"/>
 <img align="left" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
