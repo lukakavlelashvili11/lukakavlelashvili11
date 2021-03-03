@@ -15,6 +15,7 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 <br/><br/>
 regardless of the above, I see myself in <b>back end</b> development, therefore my future purposes connect to <i>PHP</i> and <i>laravel</i>. 
 ### My Hobbies:
+
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png"/>
 <img align="left" width="26px" src="https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png"/>
 <br>
