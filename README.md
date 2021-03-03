@@ -13,10 +13,10 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 
-<img align="left" width="26px" src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png"/>
+
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
-<img align="left" width="40px" src="https://lh3.googleusercontent.com/proxy/i74fFX9NKiG-Iw5WJikkV1wKw2Mff6ClU2-Si7hUQEQfP2PEVt30Pc1NeKbhms-QKnlm3EYKWwwVo_qUmU_8HuxLrrtKIqlgCJlXGapgQuRmeeWFB07nuikK"/><br/><br/>
+<br/><br/>
 regardless of the above, I see myself in <b>back end</b> development, therefore my future purposes connect to <i>PHP</i>. 
 
 ### My Hobbies:
