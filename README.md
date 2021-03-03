@@ -6,7 +6,7 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"/>
 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<img align="left" width="26px" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"/>
+<img align="left" width="26px" src="https://banner2.cleanpng.com/20180730/tua/kisspng-vue-js-javascript-library-react-angularjs-hsv-logo-5b5ec7875b3ec4.1961775115329381193738.jpg"/>
 <img align="left" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"/>
 <img align="left" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
