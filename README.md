@@ -10,8 +10,8 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 <img align="left" width="26px" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"/>
 <img align="left" width="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-<img align="left" width="30px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"/>
+<img align="left" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
+<img align="left" width="32px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <br/><br/>
 regardless of the above, I see myself in <b>back end</b> development, therefore my future purposes connect to <i>PHP</i> and <i>laravel</i>. 
