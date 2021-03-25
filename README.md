@@ -13,6 +13,7 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 <img align="left" width="31px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img align="left" width="30px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem.jpg"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" width="26px" src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png"/>
 <br/><br/>
 regardless of the above, I see myself in <b>back end</b> development, therefore my future purposes connect to <i>PHP</i> and <i>laravel</i>. 
 
