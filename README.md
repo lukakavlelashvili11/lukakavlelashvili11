@@ -24,6 +24,6 @@ regardless of the above, I see myself in <b>back end</b> development, therefore 
 <br>
 below are the projects I use to develop myself. so I am waiting for your feedback and advice!:blush::pray:
 
-My portfolio [link](http://lukasportfolio.epizy.com/)
+My portfolio link is [here](http://lukasportfolio.epizy.com/)<br>
 **email**:lukakavlelashvili10@gmail.com
 />
