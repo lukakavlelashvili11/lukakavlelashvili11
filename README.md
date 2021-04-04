@@ -22,6 +22,6 @@ regardless of the above, I see myself in <b>back end</b> development, therefore 
 <img align="left" width="23px" src="https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png"/>
 <br>
 <br>
-below are the projects I use to develop myself. so I am waiting for your feedback and advice!:blush::pray: <br/>
+below are the projects I use to develop myself. so I am waiting for your feedback and advice!:blush::pray:  
 **email**:lukakavlelashvili10@gmail.com
 />
