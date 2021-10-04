@@ -7,6 +7,7 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
