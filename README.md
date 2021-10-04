@@ -15,7 +15,7 @@ Hello! I'm **full stack** web developer from georgia:georgia:.
 <img align="left" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>
 <img align="left" width="31px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
+<img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 
 <br/><br/>
 ### My Hobbies:
