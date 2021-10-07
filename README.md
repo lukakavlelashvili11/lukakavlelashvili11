@@ -1,5 +1,5 @@
 <
-Hello! I'm **full stack** web developer from georgia:georgia:.
+Hello! I'm **full stack** web developer from georgia :georgia:.
 
 ### Languages and tools:
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
