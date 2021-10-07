@@ -26,5 +26,5 @@ Hello! I'm **full stack** web developer from georgia :georgia:.
 <br>
 below are the projects I use to develop myself. so I am waiting for your feedback and advice!:blush::pray:
 
-**email**:lukakavlelashvili10@gmail.com
+**email**: lukakavlelashvili10@gmail.com
 />
