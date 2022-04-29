@@ -19,7 +19,6 @@ Hello! I'm **full stack** web developer from georgia :georgia:.
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <br/>
 <br/>
-below are the projects I use to develop myself. So i'm waiting for your feedback and advice!:blush::pray:
 <br/>
 <br/>
 
