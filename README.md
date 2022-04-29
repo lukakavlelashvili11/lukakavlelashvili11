@@ -19,8 +19,6 @@ Hello! I'm **full stack** web developer from georgia :georgia:.
 <img align="left" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 **email**: lukakavlelashvili10@gmail.com
 />
